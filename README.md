@@ -1,4 +1,4 @@
-# 📊 Apuntes: Especialización en Data Science, Machine Learning e IA
+Apuntes: Especialización en Data Science, Machine Learning e IA
 
 Repositorio con mis apuntes, ejercicios y proyectos del **05º Programa de Especialización en Data Science, Machine Learning e Inteligencia Artificial** dictado por CECAP - Facultad de Ciencias, Universidad Nacional Agraria La Molina (UNALM).
 
@@ -6,13 +6,13 @@ Repositorio con mis apuntes, ejercicios y proyectos del **05º Programa de Espec
 
 ---
 
-## 👋 Sobre mí
+obre mí
 
 <!-- Cuenta brevemente quién eres, tu formación o profesión, y por qué estás aprendiendo Data Science -->
 
 ---
 
-## 🗂️ Contenido del repositorio
+Contenido del repositorio
 
 | Módulo | Tema | Estado |
 |---|---|---|
@@ -56,22 +56,14 @@ apuntes-data-science/
 
 ---
 
-## 🛠️ Herramientas usadas
+Herramientas usadas
 
 Python · SQL · Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch · Power BI · Tableau · LangChain
 
 ---
 
-## 🚀 Proyectos destacados
-
-<!-- A medida que avances, enlaza aquí tus mejores proyectos con una línea que explique de qué tratan -->
+Proyectos destacados
 
 - [ ] Proyecto Módulo 05: Modelo predictivo de riesgo crediticio
 - [ ] Proyecto Módulo 08: Chatbot con RAG
 - [ ] Trabajo Integrador Final
-
----
-
-## 📬 Contacto
-
-<!-- Opcional: tu LinkedIn u otro medio de contacto -->
