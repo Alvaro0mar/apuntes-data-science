@@ -3,7 +3,22 @@
 ## MÓDULO: FUNDAMENTOS DE IA y MACHINE LEARNING
 
 ---
+# Ciencia de Datos
 
+La ciencia de datos es la ciencia computacional de la extracción de conocimientos significativos a partir de datos brutos y luego la comunicación efectiva de esos conocimientos para generar valor (Pierson, 2017).
+
+**Programación explícita.** Cuando empezamos a programar.
+
+---
+
+## Cuatro preguntas genéricas sobre ciencia de datos
+
+- **Qué pasó.** Reportar
+- **Por qué sucedió.** Diagnosticar
+- **Qué sucederá.** Predecir
+- **Qué es lo mejor que puede pasar?** Recomendar
+
+---
 ## ¿Qué es Inteligencia Artificial?
 
 Es la rama de la informática que desarrolla sistemas capaces de **realizar tareas que normalmente requieren inteligencia humana**, como aprender, razonar, reconocer patrones, tomar decisiones o comprender el lenguaje.
