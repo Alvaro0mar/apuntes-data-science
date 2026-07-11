@@ -6,7 +6,7 @@ Repositorio con mis apuntes, ejercicios y proyectos del **05º Programa de Espec
 
 ---
 
-obre mí
+Sobre mí
 
 <!-- Cuenta brevemente quién eres, tu formación o profesión, y por qué estás aprendiendo Data Science -->
 
