@@ -2,12 +2,12 @@ Apuntes: Especialización en Data Science, Machine Learning e IA
 
 Repositorio con mis apuntes, ejercicios y proyectos del **05º Programa de Especialización en Data Science, Machine Learning e Inteligencia Artificial** dictado por CECAP - Facultad de Ciencias, Universidad Nacional Agraria La Molina (UNALM).
 
-📅 Inicio: julio 2026 | 🕒 Duración: 3 meses | 🎓 180 horas académicas
+Inicio: julio 2026 | Duración: 3 meses | 180 horas académicas
 
 ---
 
 Sobre mí
-
+Soy estudiante de último ciclo de Biología en la UNALM, empezando una especialización en Data Science.
 <!-- Cuenta brevemente quién eres, tu formación o profesión, y por qué estás aprendiendo Data Science -->
 
 ---
