@@ -6,7 +6,6 @@ Inicio: julio 2026 | Duración: 3 meses | 180 horas académicas
 
 ---
 
-Sobre mí
 Soy estudiante de último ciclo de Biología en la UNALM, empezando una especialización en Data Science.
 <!-- Cuenta brevemente quién eres, tu formación o profesión, y por qué estás aprendiendo Data Science -->
 
