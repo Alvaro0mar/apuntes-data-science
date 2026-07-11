@@ -63,7 +63,7 @@ Python · SQL · Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch · Pow
 ---
 
 Proyectos destacados
-
+<!-- A medida que avances, enlaza aquí tus mejores proyectos con una línea que explique de qué tratan -->
 - [ ] Proyecto Módulo 05: Modelo predictivo de riesgo crediticio
 - [ ] Proyecto Módulo 08: Chatbot con RAG
 - [ ] Trabajo Integrador Final
