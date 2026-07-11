@@ -24,7 +24,7 @@ Es la rama de la informática que desarrolla sistemas capaces de realizar tareas
 
 > ⚠️ Estas diapositivas son principalmente imágenes sin texto extraíble. Anota aquí lo que recuerdes o lo que muestran (ej. tipos de IA, aplicaciones, ejemplos por industria, etc.)
 
-- Diapositiva 3: (3.JPG)
+- Diapositiva 3: (3.jpg)
 - Diapositiva 4:
 - Diapositiva 5:
 
