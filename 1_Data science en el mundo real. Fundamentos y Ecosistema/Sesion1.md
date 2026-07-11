@@ -109,6 +109,8 @@ resultado   ┘
 ## Tipos de aprendizaje automático
 
 ### Aprendizaje supervisado
+Existe evidencia directa del problema de negocio y de las variables que puedan explicar el problema.
+*Ejemplo:* Predecir la venta de un producto.
 - Hace que la máquina aprenda explícitamente
 - Data wise proporcionan datos con una salida claramente definida (Clearly defined output is given)
 - Se da retroalimentación directa
@@ -118,6 +120,8 @@ resultado   ┘
 **Capacitación:** Entradas ▷ Computadora ▷ Salidas
 
 ### Aprendizaje sin supervisión
+No existe evidencia directa del problema de negocio, pero sí contamos con variables que puedan explicar el problema. Una vez que aprende, recién sabe el problema.
+*Ejemplo:* Segmentación por preferencias.
 - La máquina comprende los datos (identifica patrones/estructuras)
 - La evaluación es cualitativa o indirecta
 - No predice/encuentra nada específico
@@ -169,3 +173,13 @@ resultado   ┘
 - Sistemas de recomendación
 - Marketing dirigido
 - Segmentación de clientes
+
+  ## Conceptos clave
+
+- **Conjunto de datos:** Conocido como *dataset*, datos sobre los cuales se obtendrá el modelo.
+- **Variables independientes:**
+- **Variable dependiente:**
+- **Datos de entrenamiento.**
+- **Datos de testeo.**
+- **Equilibrio de aprendizaje.**
+- **Regresión**
