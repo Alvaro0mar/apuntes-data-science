@@ -29,3 +29,7 @@ print(a)
 print("la variable a es ", a, "y la variable b es ", b)
 print(f"la variable a es {a} y la variable b es {b}")
 print("la variable a es {} y la variable b es {}".format(a, b))
+
+vnombre = input("Ingrese su nombre: ")
+print ("Hola", vnombre, "bienvenido a la clase")
+
