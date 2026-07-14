@@ -1,6 +1,6 @@
-a = 20
+a = 1000
 print(a)
-b = 5
+b = 8
 print(b)
 c = a + b
 print(c)
