@@ -18,15 +18,14 @@ print("división entera: ", a//b)
 
 a += 2000
 print(a)
-a -=2000
+a -= 2000
 print(a)
 a **= 2
 print(a)
 
-a=1000
+a = 1000
 print(a)
 
-print("la variable a es ",a, "y la variable b es ",b)
+print("la variable a es ", a, "y la variable b es ", b)
 print(f"la variable a es {a} y la variable b es {b}")
-print("la variable a es {} y la variable b es {}".format(a,b))
-
+print("la variable a es {} y la variable b es {}".format(a, b))
