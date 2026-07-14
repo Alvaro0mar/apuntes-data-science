@@ -128,6 +128,34 @@ VS Code tiene todo esto en botones, si prefieres no usar la terminal:
 
 ---
 
+## ⚠️ Solución de problemas comunes
+
+### Error: `fatal: not a git repository (or any of the parent directories): .git`
+
+Te sale si ejecutas `git pull` (o `git add`, `git commit`, `git push`) estando **fuera** de la carpeta de tu repositorio. Por ejemplo, si tu terminal muestra:
+
+```
+(data_science) PS C:\Users\ALVARO\Documents\GitHub>
+```
+
+Fíjate que falta `\apuntes-data-science` al final de la ruta — estás un nivel arriba, en la carpeta contenedora, no dentro del repositorio en sí.
+
+**Solución:** entra a la carpeta del repositorio antes de usar cualquier comando de git:
+
+```powershell
+cd apuntes-data-science
+```
+
+**Cómo confirmar que ya estás en el lugar correcto:** la ruta en tu terminal debe terminar con el nombre de tu repositorio:
+
+```
+(data_science) PS C:\Users\ALVARO\Documents\GitHub\apuntes-data-science>
+```
+
+Si ves eso, ya puedes usar `git pull`, `git add`, `git commit` y `git push` sin problema.
+
+---
+
 ## 🧪 Ejemplo completo de principio a fin
 
 Supongamos que hoy quieres agregar un ejercicio nuevo llamado `ejercicio_listas.py`.
