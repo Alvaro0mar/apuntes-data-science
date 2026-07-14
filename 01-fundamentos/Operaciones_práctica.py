@@ -14,3 +14,13 @@ print("Suma con numpy:", arreglo.sum())
 
 datos = pd.DataFrame({"nombre": ["Ana", "Luis"], "edad": [23, 30]})
 print(datos)
+aa = True
+
+print("suma: ", a + b)
+print("resta: ", a-b)
+print("multiplicación: ", a*b)
+print("división: ", a/b)
+print("potencia: ", a**b)
+print("módulo: ", a % b)
+print("división entera: ", a//b)
+print("división: ", a/b)
