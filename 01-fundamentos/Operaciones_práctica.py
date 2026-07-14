@@ -23,4 +23,6 @@ print("división: ", a/b)
 print("potencia: ", a**b)
 print("módulo: ", a % b)
 print("división entera: ", a//b)
-print("división: ", a/b)
+
+a += 2000
+print(a)
