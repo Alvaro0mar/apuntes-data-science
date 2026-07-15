@@ -39,3 +39,33 @@ s3 = s1 + s2
 print(s3)
 print(s1[0]+s2[0])
 print(s1[0:2]+s2[3:5])
+
+
+def funcion1(a, b):
+    c = 5*a + 10*b
+    return c
+    return 5*a + 10*b
+
+
+print(funcion1(2, 3))
+
+
+def funcion1(a, b):
+    c = 5*a + 10*b
+    return c
+    return 5*a + 10*b
+
+
+resultado = funcion1(2, 3)
+print("resultado:", resultado)
+
+
+a = 50
+b = 80
+
+if (a > b):
+    print("a es mayor que b")
+elif (a < b):
+    print("a es menor que b")
+else:
+    print("a es igual que b")
