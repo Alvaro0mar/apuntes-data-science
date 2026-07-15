@@ -32,3 +32,10 @@ print("la variable a es {} y la variable b es {}".format(a, b))
 
 vnombre = input("Ingrese su nombre: ")
 print("Hola", vnombre, "bienvenido a la clase")
+
+s1 = "Hola"
+s2 = "Mundo"
+s3 = s1 + s2
+print(s3)
+print(s1[0]+s2[0])
+print(s1[0:2]+s2[3:5])

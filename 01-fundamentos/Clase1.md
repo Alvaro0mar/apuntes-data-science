@@ -141,7 +141,7 @@ El nombre ingresado es: Juan
 
 La concatenación de cadenas de caracteres (strings) utiliza el operador `+`.
 
-Cada letra de una cadena de caracteres puede ser indexada. Por ejemplo, si la cadena es `s="python"`, se tiene lo siguiente: `s[0]` es `"p"`, `s[1]` es `"y"`, `s[2]` es `"t"`, `s[3]` es `"h"`, `s[4]` es `"o"`, `s[5]` es `"n"`. Notar que los índices siempre comienzan con 0.
+Cada letra de una cadena de caracteres puede ser indexada. Por ejemplo, si la cadena es `s="python"`, se tiene lo siguiente: `s[0]` es `"p"`, `s[1]` es `"y"`, `s[2]` es `"t"`, `s[3]` es `"h"`, `s[4]` es `"o"`, `s[5]` es `"n"`. Notar que los índices siempre comienzan con 0. Una cosa importante es, que en rangos [inicio:fin] el índice final no se incluye, el inicio si cuenta pero el fin no.
 
 ```python
 s1 = "Hola"       # Primera cadena de caracteres (string)
